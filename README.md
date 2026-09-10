@@ -4,7 +4,7 @@ Projeto desenvolvido com o **NotebookLM** sobre atendimento, empreendedorismo, s
 
 ## 🤖 Projeto no NotebookLM
 
-🔗 **Acessar o projeto no NotebookLM**
+🔗 [Acessar o projeto no NotebookLM](https://notebook.google.com/notebook/79d2334c-4726-4f18-b295-d5c1ec035719/preview)
 
 ## 📌 Temas
 
