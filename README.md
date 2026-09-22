@@ -26,5 +26,6 @@ O objetivo deste projeto é explorar o **atendimento do Sebrae** e sua importân
 
 ##  Autor
 
-** Caique Torres **
+**Caique Torres**
+
 - [GitHub](https://github.com/Caique-torres)
